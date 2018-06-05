@@ -24,5 +24,4 @@ export default class PasswordInput extends React.Component {
       <span className={strength}>{strength}</span>
     </div>
   }
-
 }

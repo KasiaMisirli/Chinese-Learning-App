@@ -1,0 +1,13 @@
+.character{
+  
+  background-color:#725ad3;
+  height: 200px;
+  width: 50%;
+  text-align: center;
+  text-shadow: 2px 2px 5px #231656;
+  border-right: 1px solid black;
+}
+.char{
+  font-size: 30px;
+  /* text-shadow: 2px 2px 5px #C23D41; */
+}

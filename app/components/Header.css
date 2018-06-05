@@ -1,0 +1,19 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #C43C3E;
+  width: 100%;
+  height: 200px;
+  color: #1F0662;
+  font-family: 'Lucida Sans';
+  
+  
+}
+.logo{
+  height: 200px;
+}
+.lucky{
+  text-shadow: 2px 2px 5px #1F0662;
+}

@@ -32,6 +32,8 @@
     "webpack-dev-server": "^2.9.4"
   },
   "dependencies": {
+    "@material-ui/core": "^1.1.0",
+    "lodash": "^4.17.10",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   }

@@ -1,0 +1,82 @@
+.chinese-zodiac{
+  /* background-color: white;  */
+  /* height: 400px; */
+  width: 100%;
+}
+.container{
+  display: flex;
+  align-content: center;
+  background-color: white;
+  overflow: hidden;
+  /* height: 330px; */
+}
+.zodiac-details{
+  width: 50%;
+  background-color: white;
+  text-shadow: 2px 2px 5px grey;
+  text-align: right;
+}
+.zodiac-image{
+  width: 50%;
+}
+.ch-zod{
+  font-size: 3em;
+}
+.en-zod{
+  font-size: 1em;
+}
+.ch-zod-pin{
+  font-size: 1em; 
+}
+.zod-desc{
+  font-size: 1em;
+}
+.zod-best-match{
+  font-size: 1em;
+}
+.check {
+  display: inline;
+  text-align: center;
+  color:white;
+  text-shadow: 2px 2px 5px red;
+}
+.input{
+  margin-left: 40px;
+  width: 120px;
+  height: 30px;
+  
+}
+/* .form{
+  display: inline;
+} */
+.zod-img{
+  /* margin-left: 20%; */
+  height:  20em;
+}
+.zod-img-div{
+  /* background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0277/0049/rrchinese_zodiac_4_shop_thumb.png"); */
+  /* background-repeat: no-repeat;
+  background-size: 70% 100%; */
+  /* background-size: 80% 100%; */
+  background-position: right;
+  margin: none;
+  padding: none;
+}
+.top{
+  background-color: #3E1459;
+  text-align: center;
+  height: 80px;
+  padding-top: 30px;
+}
+.form{
+  display: inline;
+}
+.btn{
+  width: 100px;
+  height: 35px;
+  width: 90px;
+  background-color: #231656;
+  color:white;
+  
+
+}

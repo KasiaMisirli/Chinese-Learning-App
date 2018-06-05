@@ -1,0 +1,16 @@
+.card {
+  
+  text-align: center;
+  height: 200px;
+  width: 50%;
+  background-color: rgb(192, 162, 211);
+  overflow: hidden;
+  text-shadow: 2px 2px 5px grey;
+}
+.characters{
+  font-size: 25px;
+}
+.pinyin{
+  font-size: 30px;
+}
+

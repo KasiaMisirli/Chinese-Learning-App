@@ -1,0 +1,16 @@
+.blurb{
+  background-color: lightgray;
+  width: 50%;
+  height: 400px;;
+  text-align: center;
+  text-shadow: 2px 2px 5px #CB242E;
+  font-size:30px;
+}
+.china{
+  padding-top: 50px;
+  animation: mymove 5s infinite;
+  position: relative;
+  height: 50%;
+}
+
+

@@ -1,0 +1,11 @@
+.image{
+  background-color: palevioletred;
+  height: 400px;
+  width: 50%;
+  text-align: center;
+  text-shadow: 2px 2px;
+}
+.img{
+  height: 400px;
+  width: 100%;
+}
