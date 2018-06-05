@@ -44,7 +44,7 @@ handleProverbSearch = (e) => {
 }
 
 handleGifSearch = (term) => {
-  const url = `https://api.giphy.com/v1/gifs/search?q=${term}&api_key=FF09pHdbqHXj3f7K4RjHTNqvvpzL1SXF&limit=1&offset=${Math.floor(Math.random()*50)}`
+  const url = `https://api.giphy.com/v1/gifs/search?q=${term}&api_key=FF09pHdbqHXj3f7K4RjHTNqvvpzL1SXF&limit=1&offset=${Math.floor(Math.random()*50)}&rating=pg-13`
   fetch(url)
   .then(res => res.json())//converting json to js
   .then(res => {
