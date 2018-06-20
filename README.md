@@ -12,7 +12,7 @@ Learn Chinese now! To view the page please click [here](https://kasiamisirli.git
 
 1. clone this repo
 ```
-git clone THIS_GIT_REPO_URL
+git clone https://github.com/KasiaMisirli/Chinese-Learning-App.git
 ```
 
 2. install dependencies using npm or yarn
@@ -42,7 +42,7 @@ npm run build
 npm test
 ``` # Chinese-Learning-App
 
-## Also used:
+## Used to build the API:
 
 1. Node.js
 2. Express
