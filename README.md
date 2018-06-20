@@ -49,8 +49,8 @@ npm test
 
 ## To access the API with proverbs, please click on the below link:
 
-1. Random proverb: [random proverb](https://database-tzdaknuqpn.now.sh/api/random_proverb)
-2. All proverbs: [all proverbs](https://database-tzdaknuqpn.now.sh/api/proverbs)
+1. [Random proverb](https://database-tzdaknuqpn.now.sh/api/random_proverb)
+2. [All proverbs](https://database-tzdaknuqpn.now.sh/api/proverbs)
 
 ## Author
 
