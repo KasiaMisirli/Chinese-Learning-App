@@ -40,7 +40,7 @@ npm run build
 ## run tests in `/test`
 ```
 npm test
-``` # Chinese-Learning-App
+``` 
 
 ## Used to build the API:
 
