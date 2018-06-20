@@ -1,10 +1,8 @@
-# webpack react hot reload starter
+# Lucky Wang's Chinese
 
-All you need, none you don't. 
+Learn Chinese now! To view the page please click [here](https://kasiamisirli.github.io/Chinese-Learning-App/)
 
-Sensible starter with hot reload to try react with webpack 3 that deploys straight to github pages.
-
-## Based on
+## Build with
 
 1. Bundler: [Webpack](http://webpack.github.io/docs/), [Babel](https://babeljs.io)
 2. Language: [ES2015](https://babeljs.io/docs/learn-es2015/) ES2016/es7 class properties & object spread
@@ -42,4 +40,18 @@ npm run build
 ## run tests in `/test`
 ```
 npm test
-``` 
+``` # Chinese-Learning-App
+
+## Also used:
+
+1. Node.js
+2. Express
+
+## To access the API with proverbs, please click on the below link:
+
+1. Random proverb: [random proverb](https://database-tzdaknuqpn.now.sh/api/random_proverb)
+2. All proverbs: [all proverbs](https://database-tzdaknuqpn.now.sh/api/proverbs)
+
+## Author
+
+* **Kasia Misirli** 
